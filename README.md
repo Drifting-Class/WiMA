@@ -60,8 +60,9 @@
 # File format
 
     [.txt]
-    
     [.pdf]
+    [.pptx]
+    [.rtf]
     
  # Notes
  
